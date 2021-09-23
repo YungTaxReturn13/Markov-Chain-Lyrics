@@ -23,5 +23,3 @@ def get_lyrics(artist, songs = 10):
 
     with open(f'lyrics/{artist}.txt' , 'w') as f:
         f.write(x)
-
-get_lyrics(artist='Frank Ocean')
