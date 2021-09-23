@@ -16,4 +16,6 @@ if exists(f'lyrics/{artist.lower()}.txt') == False:
 
 if prompt == '':
     for i in range(10):
-        print(prompt + ' ' + generate_lyrics(artist, prompt))
+        print(generate_lyrics(artist, prompt))
+else:
+    print(prompt + ' ' + generate_lyrics(artist, prompt))

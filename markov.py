@@ -21,11 +21,9 @@ def generate_lyrics(artist, first_word='', n_words = 10):
         else:
             word_dict[word_1] = [word_2]
 
-    if first_word in corpus:
-        pass
-    else:
+    if first_word not in corpus:
         first_word = np.random.choice(corpus)
-        
+
     chain = [first_word]
 
     for i in range(n_words):
