@@ -11,5 +11,7 @@ Then the program will generate random lyrics. Most are pretty bad but sometimes 
 ## Examples 
 
 Frank Ocean: "love love before my favorite color to hell for heaven's sakes, go"
+
 Mitski: "too busy on losing dogs? i was making things, too much"
+
 Phoebe Bridgers: "dad lived in circles pretending to walk right back"
