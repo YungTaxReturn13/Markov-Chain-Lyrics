@@ -15,3 +15,5 @@ Frank Ocean: "love love before my favorite color to hell for heaven's sakes, go"
 Mitski: "too busy on losing dogs? i was making things, too much"
 
 Phoebe Bridgers: "dad lived in circles pretending to walk right back"
+
+Sufjan Stevens: "i happen to explore i found out now? my enemies i don’t know where to begin and grieve my evil"
